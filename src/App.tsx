@@ -1,10 +1,10 @@
-import './App.css'
+import SectionsPage from './features/sections/SectionsPage'
 
 function App() {
 
   return (
-    <div className='text-red-200'>
-      <p>Probando si se instalo bien tailwind</p>
+    <div>
+      <SectionsPage />
     </div>
   )
 }
