@@ -18,9 +18,8 @@ Permite gestionar secciones (categorías de productos) para distintas marcas de 
 
   npm install
 
-3. **Crea un archivo .env en la raíz del proyecto con tu token JWT**
+3. **Crea un archivo .env en la raíz toma como base el .env.example del proyecto, y coloca tu token JWT**
 
-Asi tiene que estar
 VITE_API_TOKEN=TU_TOKEN_JWT_AQUI
 
 4. **Inicia el servidor de desarrollo**
